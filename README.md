@@ -1,2 +1,2 @@
-# budgie-helper-scripts
-Scripts to automatically configure the Budgie DE. 
+# dotfiles - 2021
+Contains dotfiles as well as scripts to configure the Budgie DE
